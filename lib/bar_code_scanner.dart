@@ -1,4 +1,4 @@
-import 'package:bar_code_scanner/camera_scanner.dart';
+import 'package:custom_barcode_scanner/camera_scanner.dart';
 import 'package:flutter/material.dart';
 
 class BarcodeScanner extends StatefulWidget {

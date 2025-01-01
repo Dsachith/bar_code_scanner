@@ -1,4 +1,4 @@
-name: bar_code_scanner
+name: custom_barcode_scanner
 description: "A Flutter package for scanning barcodes and QR codes using the device camera, with support for customizable overlays."
 version: 0.0.1
 homepage: https://github.com/Dsachith/bar_code_scanner
