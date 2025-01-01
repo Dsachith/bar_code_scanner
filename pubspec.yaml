@@ -1,7 +1,6 @@
 name: bar_code_scanner
 description: "A new Flutter package project."
 version: 0.0.1
-author: Sachith Dilshan <dsachith3431@gmail.com>
 homepage: https://github.com/yourusername/bar_code_scanner
 
 environment:
